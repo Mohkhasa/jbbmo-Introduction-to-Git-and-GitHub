@@ -1,8 +1,7 @@
 # Introduction to Git and GitHub
 
->[!NOTE]
-> This repo is for _IBM course - Getting Started with Git and GitHub - Final Project: Part 2)_
-> [You can find part 1 here](https://github.com/Mohkhasa/github-final-project-IBM)
+> [!NOTE]
+> This repo is for _IBM course - Getting Started with Git and GitHub - Final Project: Part 2)_ > [You can find part 1 here](https://github.com/Mohkhasa/github-final-project-IBM)
 
 ## Simple Interest Calculator
 
@@ -17,4 +16,4 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2022 XYZ, Inc._
+_© 2023 XYZ, Inc._
